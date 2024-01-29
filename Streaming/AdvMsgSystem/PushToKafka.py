@@ -25,3 +25,4 @@ for trade in trades:
     print(transaction)
 metrics = producer.metrics()
 print(metrics)
+#comment
